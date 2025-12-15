@@ -6,4 +6,4 @@ and charts to generate business insights.
 
 Key insights include revenue trends by product line, profit by payment method, and transaction distribution across regions.
 
-
+Note: Dashboard source files are not included. Screenshots are provided to showcase the analysis and insights.
