@@ -24,9 +24,11 @@ analyzing business data and presenting actionable insights.
 - Visualized profit vs sales, regional sales distribution, and monthly order trends.
 
 ### 4. Profit Analysis Using Python
-- Performed exploratory data analysis using Python, Pandas, and Matplotlib.
-- Analyzed profit trends and segment-wise performance.
-- Generated visual insights to support business decision-making.
+-Connected to a MySQL database and loaded startup profit data using Python.
+-Performed data cleaning, correlation analysis, and exploratory data analysis.
+-Built and evaluated a Multiple Linear Regression model after encoding categorical variables, achieving 94% accuracy (R²).
+-Identified R&D spending as the most significant factor influencing profit, with marketing showing moderate impact.
+
 
 
 ## Tools & Skills
